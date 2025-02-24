@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[No of rows are::9]]>
+    </line>
+    <line>
+      <![CDATA[Login success]]>
+    </line>
+    <line>
+      <![CDATA[Incorrect user ID or password]]>
+    </line>
+    <line>
+      <![CDATA[Incorrect user ID or password]]>
+    </line>
+    <line>
+      <![CDATA[Login success]]>
+    </line>
+    <line>
+      <![CDATA[Login success]]>
+    </line>
+    <line>
+      <![CDATA[Incorrect user ID or password]]>
+    </line>
+    <line>
+      <![CDATA[Incorrect user ID or password]]>
+    </line>
+    <line>
+      <![CDATA[Login success]]>
+    </line>
+    <line>
+      <![CDATA[Incorrect user ID or password]]>
+    </line>
+    <line>
+      <![CDATA[No of rows are::9]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2025-02-24T12:01:32 IST" name="Surefire suite" finished-at="2025-02-24T12:02:44 IST" duration-ms="71790">
+    <groups>
+    </groups>
+    <test started-at="2025-02-24T12:01:32 IST" name="Surefire test" finished-at="2025-02-24T12:02:44 IST" duration-ms="71790">
+      <class name="driverFactory.AppTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:driverFactory.AppTest@d4342c2]" started-at="2025-02-24T12:01:32 IST" name="setUp" finished-at="2025-02-24T12:01:33 IST" duration-ms="1301" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="startTest()[pri:0, instance:driverFactory.AppTest@d4342c2]" started-at="2025-02-24T12:01:33 IST" name="startTest" finished-at="2025-02-24T12:02:14 IST" duration-ms="40478" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[No of rows are::9]]>
+            </line>
+            <line>
+              <![CDATA[Login success]]>
+            </line>
+            <line>
+              <![CDATA[Incorrect user ID or password]]>
+            </line>
+            <line>
+              <![CDATA[Incorrect user ID or password]]>
+            </line>
+            <line>
+              <![CDATA[Login success]]>
+            </line>
+            <line>
+              <![CDATA[Login success]]>
+            </line>
+            <line>
+              <![CDATA[Incorrect user ID or password]]>
+            </line>
+            <line>
+              <![CDATA[Incorrect user ID or password]]>
+            </line>
+            <line>
+              <![CDATA[Login success]]>
+            </line>
+            <line>
+              <![CDATA[Incorrect user ID or password]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:driverFactory.AppTest@d4342c2]" started-at="2025-02-24T12:02:14 IST" name="tearDown" finished-at="2025-02-24T12:02:14 IST" duration-ms="191" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:driverFactory.AppTest@d4342c2]" started-at="2025-02-24T12:02:14 IST" name="setUp" finished-at="2025-02-24T12:02:15 IST" duration-ms="878" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="InvalidLogin()[pri:1, instance:driverFactory.AppTest@d4342c2]" started-at="2025-02-24T12:02:15 IST" name="InvalidLogin" finished-at="2025-02-24T12:02:43 IST" duration-ms="28649" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[No of rows are::9]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- InvalidLogin -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:driverFactory.AppTest@d4342c2]" started-at="2025-02-24T12:02:43 IST" name="tearDown" finished-at="2025-02-24T12:02:44 IST" duration-ms="245" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- driverFactory.AppTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
